@@ -3,7 +3,7 @@
 Tool for pinging hosts/ip adresses from a .txt file.
 
 ## Usage:
-`
+```shell
 	kali@kali:pinger (master)> ./pinger
 	Error: File or output file argument is missing.
 	Usage: /usr/local/bin/pinger -f <file> [-t <threads>] -o <output_file> [-v]
@@ -13,4 +13,3 @@ Tool for pinging hosts/ip adresses from a .txt file.
 	  -o <output_file>  Output file for up IPs
 	  -v                Verbose mode (optional)
 	  -h                Display this help message
-`
